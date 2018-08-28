@@ -1,1 +1,1 @@
-"App para Calcular Percentual de aumento do Sal†rio" 
+<h1>App para Calcular Percentual de aumento do Sal√°rio</h1>
